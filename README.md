@@ -33,16 +33,6 @@ I build modern, responsive and user-friendly websites with clean, maintainable c
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,vscode"/>
 </p>
 
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=esxdev999-bit&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
