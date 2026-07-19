@@ -38,8 +38,7 @@ I build modern, responsive and user-friendly websites with clean, maintainable c
 # 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=esxdev999-bit&show_icons=true&theme=github_dark&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esxdev999-bit&layout=compact&theme=github_dark&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=esxdev999-bit&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
 </p>
 
 ---
